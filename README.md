@@ -4,7 +4,7 @@
 
 ###Potential issues:
 Task doesn't spcify what is the maximum length of the Battleship so I've assumed it had been validated in the input form.
-Also task doesn't spcify if the ship should be placed vertically or horizontally so I created two solutions.
+Also task doesn't spcify if the ship should be placed vertically or horizontally so I've created two solutions.
 
 I took me more than half an hour but I can explain, how I  approached and solved the problem.
 
